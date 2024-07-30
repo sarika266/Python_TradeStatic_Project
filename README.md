@@ -1,0 +1,1 @@
+# Python_TradeStatic_Project
